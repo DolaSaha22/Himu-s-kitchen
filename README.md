@@ -1,2 +1,2 @@
 # Himu-s-kitchen
-this is a simple website of home made food..  
+This is a simple website of home made food..  
